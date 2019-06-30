@@ -1,6 +1,6 @@
-# Pridelení moderátori na stretnutia Toastmasters
+# Pridelení súhrnní hodnotitelia na stretnutia Toastmasters
 
-| Dátum            | Moderátor            |
+| Dátum            | Súhrnný hodnotiteľ   |
 |------------------|----------------------|
 | 8.7.2019, 18:30  | Peter Kempec         |
 | 22.7.2019, 18:30 | Jozef Takáč          |
