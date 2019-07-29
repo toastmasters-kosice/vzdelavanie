@@ -13,7 +13,7 @@
 | Vladimír Záhradník  | Ján Šándor, Jozef Takáč, bez mentora |
 | Adrián Šenkýr       | ??                                   |
 | Erika Olejarníková  | ??                                   |
-| Ján Šándor          | ??                                   |
+| Ján Šándor          | *bez mentora*                        |
 | Jozef Starúch       | *bez mentora*                        |
 | Kamila Pekárovičová | Katarína Šimková                     |
 | Katarína Šimková    | ??                                   |
