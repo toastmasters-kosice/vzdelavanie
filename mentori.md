@@ -15,6 +15,6 @@
 | Erika Olejarníková  | ??                                   |
 | Ján Šándor          | ??                                   |
 | Jozef Starúch       | ??                                   |
-| Kamila Pekárovičová | ??                                   |
+| Kamila Pekárovičová | Katarína Šimková                     |
 | Katarína Šimková    | ??                                   |
 | Peter Murko         | ??                                   |
