@@ -14,7 +14,7 @@
 | Adrián Šenkýr       | ??                                   |
 | Erika Olejarníková  | ??                                   |
 | Ján Šándor          | ??                                   |
-| Jozef Starúch       | ??                                   |
+| Jozef Starúch       | *bez mentora*                        |
 | Kamila Pekárovičová | Katarína Šimková                     |
 | Katarína Šimková    | ??                                   |
 | Peter Murko         | ??                                   |
