@@ -10,11 +10,10 @@
 | Jana Kolesárová     | *bez mentora*                        |
 | Lukáš Bičuš         | *bez mentora*                        |
 | Kornélia Hudáková   | *bez mentora*                        |
-| Vladimír Záhradník  | Ján Šándor, Jozef Takáč, bez mentora |
+| Vladimír Záhradník  | *bez mentora*                        |
 | Adrián Šenkýr       | ??                                   |
-| Erika Olejarníková  | ??                                   |
 | Ján Šándor          | *bez mentora*                        |
 | Jozef Starúch       | *bez mentora*                        |
 | Kamila Pekárovičová | Katarína Šimková                     |
-| Katarína Šimková    | ??                                   |
+| Katarína Šimková    | *bez mentora*                        |
 | Peter Murko         | ??                                   |
