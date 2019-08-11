@@ -11,9 +11,9 @@
 | Lukáš Bičuš         | *bez mentora*                        |
 | Kornélia Hudáková   | *bez mentora*                        |
 | Vladimír Záhradník  | *bez mentora*                        |
-| Adrián Šenkýr       | ??                                   |
+| Adrián Šenkýr       | *bez mentora*                        |
 | Ján Šándor          | *bez mentora*                        |
 | Jozef Starúch       | *bez mentora*                        |
 | Kamila Pekárovičová | Katarína Šimková                     |
 | Katarína Šimková    | *bez mentora*                        |
-| Peter Murko         | ??                                   |
+| Peter Murko         | *bez mentora*                        |
