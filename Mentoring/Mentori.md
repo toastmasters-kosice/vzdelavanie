@@ -1,19 +1,19 @@
 # Mentori
 
-| Člen                | Mentor                               |
-|---------------------|--------------------------------------|
-| Lucia Pethöová      | Ján Šándor                           |
-| Vladimír Kasarda    | Katarína Šimková, Lukáš Bičuš        |
-| Peter Stropkai      | Katarína Šimková                     |
-| Jozef Takáč         | Lukáš Bičuš, Kornélia Hudáková       |
-| Peter Kempec        | Jozef Takáč                          |
-| Jana Kolesárová     | *bez mentora*                        |
-| Lukáš Bičuš         | *bez mentora*                        |
-| Kornélia Hudáková   | *bez mentora*                        |
-| Vladimír Záhradník  | *bez mentora*                        |
-| Adrián Šenkýr       | *bez mentora*                        |
-| Ján Šándor          | *bez mentora*                        |
-| Jozef Starúch       | *bez mentora*                        |
-| Kamila Pekárovičová | Katarína Šimková                     |
-| Katarína Šimková    | *bez mentora*                        |
-| Peter Murko         | *bez mentora*                        |
+| Člen                | Mentor                               | Predošlí mentori                     |
+|---------------------|--------------------------------------|--------------------------------------|
+| Vladimír Záhradník  | *bez mentora*                        | Ján Šándor                           |
+| Jana Kolesárová     | *bez mentora*                        |                                      |
+| Kornélia Hudáková   | *bez mentora*                        |                                      |
+| Kamila Pekárovičová | Katarína Šimková                     |                                      |
+| Jozef Starúch       | *bez mentora*                        |                                      |
+| Lucia Pethöová      | Vladimír Záhradník                   | Ján Šándor                           |
+| Vladimír Kasarda    | Katarína Šimková                     | Lukáš Bičuš                          |
+| Peter Stropkai      | Katarína Šimková                     |                                      |
+| Peter Kempec        | Jozef Takáč                          |                                      |
+| Katarína Šimková    | *bez mentora*                        |                                      |
+| Jozef Takáč         | Lukáš Bičuš                          | Kornélia Hudáková                    |
+| Lukáš Bičuš         | *bez mentora*                        |                                      |
+| Ján Šándor          | *bez mentora*                        |                                      |
+| Adrián Šenkýr       | *bez mentora*                        |                                      |
+| Peter Murko         | *bez mentora*                        |                                      |

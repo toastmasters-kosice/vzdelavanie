@@ -23,7 +23,7 @@ Naučil som sa flexibilite a tomu, ako sa rýchlo prispôsobiť rôznym prostred
 2. Zmena uhlu pohľadu z pozície chránenca do pozície mentora
 3. Snaha úspešne pripraviť nového člena na prvé roly v Toastmasters
 
-## Vypíšte hranice, ktoré musí váš chránenec poznať a pochopiť (ako napr. komunikácia, čas stretnutia, kedy počas dňa vás môže kontaktovať atď.)
+## Vypíšte hranice, ktoré musí váš chránenec poznať a pochopiť (ako napr. komunikácia, čas stretnutia, kedy počas dňa vás môže kontaktovať atď.).
 1. Komunikácia cez email, sociálne siete. V krajných prípadoch cez mobil.
 2. Stretnutia budú prebiehať výlučne online ako videohovory. Som mimo Košíc a nemám čas cestovať kvôli "kávičke" pravidelne.
 3. Chránenec ma môže kontaktovať kedykoľvek v pracovných dňoch od 9:00 - 15:00. Mimo tohto času môže tiež, ale nemusím odpovedať.
