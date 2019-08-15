@@ -1,0 +1,77 @@
+# Témy stretnutí
+S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespeech.com/2016/07/27/125-toastmasters-meeting-themes-or-theme-meeting-ideas-part-1/). Ďalšie ma napadli postupe. Zoznam bude priebežne aktualizovaný.
+
+- ~~Cvičenie robí majstra~~
+- ~~5 spôsobov, ako byť úspešným~~
+- Chybami sa človek učí
+- Myslím, teda som
+- Mýliť sa je ľudské, odpúšťať božské
+- Cestovať znamená žiť
+- Premeňte prekážky na príležitosti
+- Sny a ambície
+- Odpusť a zabudni
+- Láska je blažená
+- Cestovanie časom
+- Je v poriadku byť iným
+- Smiech je najlepší liek
+- Komunikáciou sa vyvíjate
+- Rozmýšľaj, kým niečo povieš, čítaj skôr, než budeš rozmýšľať
+- Koniec je len nový začiatok
+- Kúzlo viery
+- Detskými očami
+- Kým si po mňa príde / skôr, kým zomriem... (bucket list)
+- Meníme naše návyky krok po kroku
+- Buď zdravý, buď šťastný
+- Životné lekcie, ktoré som sa naučil ťažkou cestou
+- Nikdy to nevzdaj
+- Nezabudnuteľní mentori
+- Návrat do budúcnosti
+- Žime teraz, v tomto okamihu
+- Najlepšie lekcie, ktoré som sa nikdy nenaučil
+- Prečo ja? Prečo toto? Prečo teraz?
+- Milé prekvapenie
+- Tvoja najväčšia lož
+- Nevinné lži
+- Nikdy nie je neskoro
+- Šéf vs. líder
+- Celoživotné vzdelávanie
+- Je čas na všetko a všetko má svoj čas
+- Nič nie je nemožné
+- Obeta je cnosťou statočných
+- Novodobí hrdinovia
+- Slúžiť iným
+- Prečítaj si aspoň jednu knihu mesačne
+- Pamätáš, keď...
+- Cíť svoj strach a aj tak to sprav!
+- Prekonaj svoju zónu komfortu
+- Všetko je v hlave, to predsa vieš!
+- Farby života
+- Krok za krokom
+- Zvíťazíš!
+- Život bez obmedzení
+- Sila okamihu
+- Sila prítomnosti
+- Nepýtaj sa, čo môže ľudstvo urobiť pre teba, ale čo môžeš ty urobiť pre ľudstvo
+- Bohatý otec, chudobný otec
+- Čo môžeš urobiť dnes, neodkladaj na zajtra
+- Prvá kapitola
+- Vidíme sa hore
+- Meditácia
+- Iskra v nás
+- Drajv
+- Moc mýtov
+- Vyhraj, nech sa deje čokoľvek
+- Mindset
+- Neobmedzená moc
+- Prebuď obra v sebe
+- Miluj svoj život
+- Sila pozitívneho myslenia
+- Kúzlo myslenia vo veľkom
+- Jeden jednoduchý nápad môže...
+- Sústreď sa
+- Tvojím jediným limitom si ty sám!
+- Nikdy to nevzdaj
+- Ak príležitosť neklope, postav dvere!
+- Buď najlepšou verziou seba samého
+- Buď odvážny
+- Si úžasný
