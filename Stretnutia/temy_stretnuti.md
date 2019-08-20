@@ -75,3 +75,4 @@ S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespe
 - Buď najlepšou verziou seba samého
 - Buď odvážny
 - Si úžasný
+- Pravda je len jedna
