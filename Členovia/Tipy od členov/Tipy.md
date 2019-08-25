@@ -4,7 +4,7 @@ Tento dokument obsahuje postrehy ostatných členov, ako vylepšiť vzdelávanie
 ### Tipy (x = už zrealizované)
 - [ ] Videonahrávanie ako spätná väzba
 - [ ] Zamerať sa viac na kvalitu zvuku vo videu - zohnať mikrofón na pripnutie aj do ruky
-- [ ] PathWays a EasySpeak - natočiť inštruktázne videá
+- [ ] Pathways a EasySpeak - natočiť inštruktázne videá
 - [ ] Spätná väzba na organizáciu stretnutia. "Kolečko" - každý stručne povie, čo sa mu páčilo/nepáčilo
 - [ ] Viac stretnutí v angličtine, možno samostatné stretnutia
 - [ ] Improvizácie - viac osôb na jedno vystúpenie
