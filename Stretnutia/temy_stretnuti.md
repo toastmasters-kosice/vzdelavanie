@@ -46,7 +46,7 @@ S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespe
 - Prekonaj svoju zónu komfortu
 - Všetko je v hlave, to predsa vieš!
 - Farby života
-- Krok za krokom
+- ~~Krok za krokom~~
 - Zvíťazíš!
 - Život bez obmedzení
 - Sila okamihu
@@ -75,3 +75,4 @@ S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespe
 - Buď najlepšou verziou seba samého
 - Buď odvážny
 - Si úžasný
+- Pravda je len jedna
