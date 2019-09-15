@@ -8,7 +8,7 @@ S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespe
 - Mýliť sa je ľudské, odpúšťať božské
 - Cestovať znamená žiť
 - Premeňte prekážky na príležitosti
-- Sny a ambície
+- ~~Sny a ambície~~
 - Odpusť a zabudni
 - Láska je blažená
 - Cestovanie časom
