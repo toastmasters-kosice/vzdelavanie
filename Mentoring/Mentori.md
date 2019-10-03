@@ -12,8 +12,4 @@
 | Peter Stropkai      | Katarína Šimková                     |                                      |
 | Peter Kempec        | Jozef Takáč                          |                                      |
 | Katarína Šimková    | *bez mentora*                        |                                      |
-| Jozef Takáč         | Lukáš Bičuš                          | Kornélia Hudáková                    |
-| Lukáš Bičuš         | *bez mentora*                        |                                      |
-| Ján Šándor          | *bez mentora*                        |                                      |
-| Adrián Šenkýr       | *bez mentora*                        |                                      |
-| Peter Murko         | *bez mentora*                        |                                      |
+| Jozef Takáč         | *bez mentora*                        | Kornélia Hudáková, Lukáš Bičuš       |
