@@ -3,17 +3,14 @@
 | Člen                | Mentor                               |
 |---------------------|--------------------------------------|
 | Lucia Pethöová      | Vladimír Záhradník                   |
-| Vladimír Kasarda    | Katarína Šimková, Lukáš Bičuš        |
+| Vladimír Kasarda    | Katarína Šimková                     |
 | Peter Stropkai      | Katarína Šimková                     |
 | Peter Kempec        | Jozef Takáč                          |
 | Jana Kolesárová     | *bez mentora*                        |
+| Katarína Kesselová  | Kornélia Hudáková                    |
 | Kornélia Hudáková   | *bez mentora*                        |
 | Vladimír Záhradník  | *bez mentora*                        |
-| Adrián Šenkýr       | *bez mentora*                        |
 | Jozef Starúch       | *bez mentora*                        |
 | Kamila Pekárovičová | Katarína Šimková                     |
 | Katarína Šimková    | *bez mentora*                        |
-| Jozef Takáč         | Lukáš Bičuš, Kornélia Hudáková       |
-| Lukáš Bičuš         | *bez mentora*                        |
-| Ján Šándor          | *bez mentora*                        |
-| Peter Murko         | *bez mentora*                        |
+| Jozef Takáč         | Kornélia Hudáková                    |
