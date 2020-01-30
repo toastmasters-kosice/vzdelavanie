@@ -7,7 +7,6 @@
 | Kornélia Hudáková   | *bez mentora*                        |                                      |
 | Kamila Pekárovičová | Katarína Šimková                     |                                      |
 | Jozef Starúch       | *bez mentora*                        |                                      |
-| Lucia Pethöová      | Vladimír Záhradník                   | Ján Šándor                           |
 | Vladimír Kasarda    | Katarína Šimková                     | Lukáš Bičuš                          |
 | Peter Stropkai      | Katarína Šimková                     |                                      |
 | Peter Kempec        | Jozef Takáč                          |                                      |
