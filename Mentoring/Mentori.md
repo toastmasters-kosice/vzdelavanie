@@ -12,3 +12,8 @@
 | Peter Kempec        | Jozef Takáč                          |                                      |
 | Katarína Šimková    | *bez mentora*                        |                                      |
 | Jozef Takáč         | *bez mentora*                        | Kornélia Hudáková, Lukáš Bičuš       |
+| František Babič     | Jozef Takáč                          |                                      |
+| Katarína Kesselová  | Kornélia Hudáková                    |                                      |
+| Miroslava Hrešková  | Jana Kolesárová                      |                                      |
+| Peter Goč           | Jozef Takáč                          |                                      |
+| Roman Gürtler       | Vladimír Kasarda                     |                                      |
