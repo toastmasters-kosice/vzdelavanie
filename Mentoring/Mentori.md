@@ -11,7 +11,7 @@
 | Peter Stropkai      | Katarína Šimková                     |                                      |
 | Peter Kempec        | Jozef Takáč                          |                                      |
 | Katarína Šimková    | *bez mentora*                        |                                      |
-| Jozef Takáč         | *bez mentora*                        | Kornélia Hudáková, Lukáš Bičuš       |
+| Jozef Takáč         | *bez mentora*                        | Lukáš Bičuš                          |
 | František Babič     | Jozef Takáč                          |                                      |
 | Katarína Kesselová  | Kornélia Hudáková                    |                                      |
 | Miroslava Hrešková  | Jana Kolesárová                      |                                      |
