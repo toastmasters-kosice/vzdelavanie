@@ -17,3 +17,4 @@
 | Miroslava Hrešková  | Jana Kolesárová                      |                                      |
 | Peter Goč           | Jozef Takáč                          |                                      |
 | Roman Gürtler       | Vladimír Kasarda                     |                                      |
+| Eva Zamišková       | Vladimír Záhradník                   |                                      |
