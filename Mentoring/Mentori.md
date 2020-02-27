@@ -18,3 +18,4 @@
 | Peter Goč           | Jozef Takáč                          |                                      |
 | Roman Gürtler       | Vladimír Kasarda                     |                                      |
 | Eva Zamišková       | Vladimír Záhradník                   |                                      |
+| Branislav Kačur     | Jozef Starúch                        |                                      |
