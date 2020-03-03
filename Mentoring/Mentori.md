@@ -3,7 +3,7 @@
 | Člen                | Mentor                               | Predošlí mentori                     |
 |---------------------|--------------------------------------|--------------------------------------|
 | Vladimír Záhradník  | *bez mentora*                        | Ján Šándor                           |
-| Jana Kolesárová     | *bez mentora*                        |                                      |
+| Jana Bičušová       | *bez mentora*                        |                                      |
 | Kornélia Hudáková   | *bez mentora*                        |                                      |
 | Kamila Pekárovičová | Katarína Šimková                     |                                      |
 | Jozef Starúch       | *bez mentora*                        |                                      |
@@ -14,7 +14,7 @@
 | Jozef Takáč         | *bez mentora*                        | Lukáš Bičuš                          |
 | František Babič     | Jozef Takáč                          |                                      |
 | Katarína Kesselová  | Kornélia Hudáková                    |                                      |
-| Miroslava Hrešková  | Jana Kolesárová                      |                                      |
+| Miroslava Hrešková  | Jana Bičušová                        |                                      |
 | Peter Goč           | Jozef Takáč                          |                                      |
 | Roman Gürtler       | Vladimír Kasarda                     |                                      |
 | Eva Zamišková       | Vladimír Záhradník                   |                                      |
