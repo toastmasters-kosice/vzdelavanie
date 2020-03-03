@@ -9,7 +9,6 @@
 | Jozef Starúch       | *bez mentora*                        |                                      |
 | Vladimír Kasarda    | Katarína Šimková                     | Lukáš Bičuš                          |
 | Peter Stropkai      | Katarína Šimková                     |                                      |
-| Peter Kempec        | Jozef Takáč                          |                                      |
 | Katarína Šimková    | *bez mentora*                        |                                      |
 | Jozef Takáč         | *bez mentora*                        | Lukáš Bičuš                          |
 | František Babič     | Jozef Takáč                          |                                      |
