@@ -11,8 +11,8 @@ Ako je známe, mentorský program v klube Toastmasters Košice dlhodobo nefunguj
 | Eva Zamišková | *Nezvolená* | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Branislav Kačur | *Nezvolená* | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Roman Gűrtler | Dynamické vodcovstvo | ✅ | ✅ | ✅ | ✅ | ✅ | ❓ |
-| František Babič | *Nezvolená* | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Peter Goč | *Nezvolená* | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| František Babič | Dynamické vodcovstvo?? | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Peter Goč | *Nezvolená* | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
 
 ### Miroslava Hrešková
 - Mentor: Jana Bičušová
@@ -53,10 +53,14 @@ Ako je známe, mentorský program v klube Toastmasters Košice dlhodobo nefunguj
 ### František Babič
 - Mentor: Jozef Takáč
 - V tejto chvíli prioritne rieši svadbu
+- Ešte si nevybral cestu. Ale spravil online test a študuje dostupné materiály.
+- Navrhol virtuálny mentoring; zatiaľ žiadne stretnutie ešte neprebehlo
 
 ### Peter Goč
 - Mentor: Jozef Takáč
 - Spojili sa e-mailom; samostatné stretnutie k mentoringu neprebehlo
+- Mal dať termín Skype stretnutia, zatiaľ nič
+- Navigátor pozrel
 
 ## Doterajšie poznatky
 - Treba si človeka pozrieť na improvizáciách
@@ -65,3 +69,7 @@ Ako je známe, mentorský program v klube Toastmasters Košice dlhodobo nefunguj
 - **Neoháňať sa s titulmi** ako VPE, pôsobí to príliš formálne.
 - Zmenu mentora má iniciovať jeho zverenec; o tejto možnosti ho musíme informovať
 - Kornélia Hudáková zvažuje po čase e-mailom poslať zverencom žiadosť o spätnú väzbu na mentora. Či k tomu pristúpime, je zatiaľ otvorené.
+- Podľa Joža Takáča by si mal spätnú väzbu na mentorov pýtať VPE
+- Podľa Joža Takáča je online mentoring pohodlnejší, nie nutne lepší. Člen nemusí vystúpiť mimo svojej komfortnej zóny, lebo ho počuje len mentor. V reštaurácii ho môžu počuť aj iní.
+- Jožo Takáč by nechal, aby si mentorov vyberali členovia. Zatiaľ sa nám to však neosvedčilo. Keď sme tú možnosť dali, členovia neprejavili aktivitu a stratili sme v prvom rade čas.
+- Online videohovory s mentormi príp. aj ďalšími členmi sa osvedčili. Môžeme v tom pokračovať. No v prvom rade budeme používať mailing list toastmasters-kosice-mentoring@googlegroups.com
