@@ -11,10 +11,7 @@ Táto tabuľka predstavuje aktuálnu úroveň členov vo vzdelávacom systéme a
 | Kamila Pekárovičová | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Nepravidelná |
 | Peter Stropkai | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Nepravidelná |
 | Jozef Takáč | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Pravidelná |
-| Branislav Kačur | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Nepravidelná |
-| Eva Zamišková | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
-| František Babič | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Nepravidelná |
-| Katarína Kesselová | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
+| František Babič | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | Nepravidelná |
+| Katarína Kesselová | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
 | Miroslava Hrešková | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
-| Peter Goč | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
-| Roman Gűrtler | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
+| Roman Gűrtler | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | Pravidelná |

@@ -1,5 +1,5 @@
 # Témy stretnutí
-S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespeech.com/2016/07/27/125-toastmasters-meeting-themes-or-theme-meeting-ideas-part-1/). Ďalšie ma napadli postupne. Zoznam bude priebežne aktualizovaný.
+S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespeech.com/2016/07/27/125-toastmasters-meeting-themes-or-theme-meeting-ideas-part-1/). Ďalšie ma napadli postupne.
 
 - ~~Cvičenie robí majstra~~
 - ~~5 spôsobov, ako byť úspešným~~

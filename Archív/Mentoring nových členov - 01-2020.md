@@ -6,13 +6,10 @@ Ako je známe, mentorský program v klube Toastmasters Košice dlhodobo nefunguj
 
 | Člen | Cesta | Emailová komunikácia | Osobné stretnutie | Icebreaker | EasySpeak | Pathways | Online test |
 |---|---|---|---|---|---|---|---|
-| Miroslava Hrešková | Strategické vzťahy?? | ✅ | ✅ | ✅ | ❓ | ✅ | ❌ |
-| Katarína Kesselová | Dynamické vodcovstvo | ✅ | ✅ | ✅ | ❓ | ❓ | ❓ |
-| Eva Zamišková | *Nezvolená* | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Branislav Kačur | *Nezvolená* | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Miroslava Hrešková | Strategické vzťahy | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Katarína Kesselová | Dynamické vodcovstvo | ✅ | ✅ | ✅ | ✅ | ✅ | ❓ |
 | Roman Gűrtler | Dynamické vodcovstvo | ✅ | ✅ | ✅ | ✅ | ✅ | ❓ |
 | František Babič | Dynamické vodcovstvo?? | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
-| Peter Goč | *Nezvolená* | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
 
 ### Miroslava Hrešková
 - Mentor: Jana Bičušová
