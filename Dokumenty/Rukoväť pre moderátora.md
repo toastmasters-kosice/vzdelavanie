@@ -329,7 +329,7 @@ Smelo doplň aj tie tvoje, napríklad by sa hodili odkazy na videoukážky uvede
 - E-maily od Lucie Šarudyovej
 - [easy-Speak][easy-Speak]
 
-[logo]: https://github.com/toastmasters-kosice/graficke_podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [easy-Speak]: https://tmclub.eu/
 [trello]: https://trello.com/
 [harok-rezervacia-roli]: https://drive.google.com/open?id=0B0JB0MviqFsjY3ZoSVR2NFdybEU
