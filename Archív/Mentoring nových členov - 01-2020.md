@@ -10,6 +10,7 @@ Ako je známe, mentorský program v klube Toastmasters Košice dlhodobo nefunguj
 | Katarína Kesselová | Dynamické vodcovstvo | ✅ | ✅ | ✅ | ✅ | ✅ | ❓ |
 | Roman Gűrtler | Dynamické vodcovstvo | ✅ | ✅ | ✅ | ✅ | ✅ | ❓ |
 | František Babič | Dynamické vodcovstvo?? | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Peter Liba | Dynamické vodcovstvo | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |
 
 ### Miroslava Hrešková
 - Mentor: Jana Bičušová
