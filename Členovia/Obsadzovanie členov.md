@@ -7,7 +7,7 @@ Táto tabuľka predstavuje aktuálnu úroveň členov vo vzdelávacom systéme a
 | Vladimír Záhradník | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Pravidelná |
 | Kornélia Hudáková | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Pravidelná |
 | Jozef Starúch | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Pravidelná |
-| Vladimír Kasarda | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Pravidelná |
+| Vladimír Kasarda | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Pravidelná |
 | Kamila Pekárovičová | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Nepravidelná |
 | Peter Stropkai | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Nepravidelná |
 | Jozef Takáč | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Pravidelná |
