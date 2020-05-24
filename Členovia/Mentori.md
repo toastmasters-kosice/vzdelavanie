@@ -4,7 +4,7 @@
 |---------------------|--------------------------------------|--------------------------------------|
 | Vladimír Záhradník  | *bez mentora*                        | Ján Šándor                           |
 | Jana Bičušová       | *bez mentora*                        |                                      |
-| Kornélia Hudáková   | *bez mentora*                        |                                      |
+| Kornélia Hudáková   | *bez mentora*                        | Vladimír Záhradník                   |
 | Kamila Pekárovičová | *bez mentora*                        | Katarína Šimková                     |
 | Jozef Starúch       | *bez mentora*                        |                                      |
 | Vladimír Kasarda    | *bez mentora*                        | Katarína Šimková, Lukáš Bičuš        |
@@ -15,3 +15,4 @@
 | Miroslava Hrešková  | Jana Bičušová                        |                                      |
 | Roman Gürtler       | Vladimír Kasarda                     |                                      |
 | Peter Liba          | *bez mentora*                        |                                      |
+| Beáta Hamarová      | *bez mentora*                        |                                      |
