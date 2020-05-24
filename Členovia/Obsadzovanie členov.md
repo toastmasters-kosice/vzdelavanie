@@ -13,7 +13,7 @@ Táto tabuľka predstavuje aktuálnu úroveň členov vo vzdelávacom systéme a
 | Jozef Takáč | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Pravidelná |
 | František Babič | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | Nepravidelná |
 | Katarína Kesselová | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
-| Miroslava Hrešková | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
+| Miroslava Hrešková | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
 | Roman Gűrtler | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Pravidelná |
 | Peter Liba | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | Pravidelná |
 | Beáta Hamarová | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
