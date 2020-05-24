@@ -16,3 +16,4 @@ Táto tabuľka predstavuje aktuálnu úroveň členov vo vzdelávacom systéme a
 | Miroslava Hrešková | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
 | Roman Gűrtler | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Pravidelná |
 | Peter Liba | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | Pravidelná |
+| Beáta Hamarová | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Pravidelná |
