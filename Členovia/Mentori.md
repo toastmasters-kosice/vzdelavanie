@@ -13,6 +13,6 @@
 | František Babič     | Jozef Takáč                          |                                      |
 | Katarína Kesselová  | Kornélia Hudáková                    |                                      |
 | Miroslava Hrešková  | Jana Bičušová                        |                                      |
-| Roman Gürtler       | Vladimír Kasarda                     |                                      |
+| Roman Gűrtler       | Vladimír Kasarda                     |                                      |
 | Peter Liba          | *bez mentora*                        |                                      |
 | Beáta Hamarová      | *bez mentora*                        |                                      |
