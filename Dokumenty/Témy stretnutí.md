@@ -52,7 +52,7 @@ S mnohými témami som sa inšpiroval [na tejto stránke](http://www.evaluatespe
 - Sila okamihu
 - Sila prítomnosti
 - Nepýtaj sa, čo môže ľudstvo urobiť pre teba, ale čo môžeš ty urobiť pre ľudstvo
-- Bohatý otec, chudobný otec
+- ~~Bohatý otec, chudobný otec~~
 - Čo môžeš urobiť dnes, neodkladaj na zajtra
 - Prvá kapitola
 - Vidíme sa hore
