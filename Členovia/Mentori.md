@@ -14,5 +14,5 @@
 | Katarína Kesselová  | Kornélia Hudáková                    |                                      |
 | Miroslava Hrešková  | Jana Bičušová                        |                                      |
 | Roman Gűrtler       | Vladimír Kasarda                     |                                      |
-| Peter Liba          | *bez mentora*                        |                                      |
+| Peter Liba          | Jozef Takáč                          |                                      |
 | Beáta Hamarová      | *bez mentora*                        |                                      |
