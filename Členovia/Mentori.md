@@ -5,7 +5,6 @@
 | Vladimír Záhradník  | *bez mentora*                        | Ján Šándor                           |
 | Jana Bičušová       | *bez mentora*                        |                                      |
 | Kornélia Hudáková   | Vladimír Záhradník                   |                                      |
-| Kamila Pekárovičová | *bez mentora*                        | Katarína Šimková                     |
 | Jozef Starúch       | *bez mentora*                        |                                      |
 | Vladimír Kasarda    | Kornélia Hudáková                    | Katarína Šimková, Lukáš Bičuš        |
 | Peter Stropkai      | *bez mentora*                        | Katarína Šimková                     |
